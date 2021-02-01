@@ -13,6 +13,7 @@ pkg install curl
 pkg install python 
 
 pkg install python3
+
 git clone https://github.com/U-danbaiwa/termux-games.git
 cd
 ls
