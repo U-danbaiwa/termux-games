@@ -1,4 +1,6 @@
 import random
+import sys
+import os
 red='\033[031m'
 green='\033[092m'
 yellow='\033[093m'
